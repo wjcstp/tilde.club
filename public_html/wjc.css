@@ -1,0 +1,59 @@
+body {
+	color: #fff;
+	background-color: #000;
+	background-image: url('https://farm3.staticflickr.com/2896/14414315219_c7fc169570_b.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	padding: 40px;
+	font-family: 'Playball', cursive;
+	font-size: 16px;
+}
+
+<!--
+oregon creek
+https://farm3.staticflickr.com/2896/14414315219_c7fc169570_b.jpg
+
+oregon shore, light
+https://farm4.staticflickr.com/3878/14414222298_e4164560b9_b.jpg
+
+brick walk, japan
+https://farm6.staticflickr.com/5453/9305642069_e29249967e_b.jpg
+-->
+
+h1 {
+	font-weight: 400;
+	font-size: 3em;
+}
+
+#menu ul {
+	font-size: 30px;
+	list-style-type: none;
+	margin: 0 0 20 0;
+	padding: 0;
+}
+
+#menu li {
+	padding-left: 8px;
+	display: inline;
+}
+
+a {
+	text-decoration: none;
+	color: #ccccff;
+}
+
+#journal {
+	font-family: Georgia, sans-serif;
+	width: 500px;
+	background-color: rgba(0,0,0,0.25);
+	padding: 10px;
+	color: #fff;
+}
+
+#archives {
+	font-family: Georgia, sans-serif;
+    float: right;
+    width: 200px;
+	background-color: rgba(0,0,0,0.25);
+}
